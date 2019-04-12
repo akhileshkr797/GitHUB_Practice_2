@@ -1,0 +1,19 @@
+{
+    "name": "github_practice_2",
+    "version": "1.0.0",
+    "description": "sample gitHub learning practice",
+    "main": "master.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/akhileshkr797/GitHUB_Practice_2.git"
+    },
+    "author": "akhilesh",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/akhileshkr797/GitHUB_Practice_2/issues"
+    },
+    "homepage": "https://github.com/akhileshkr797/GitHUB_Practice_2#readme"
+}
