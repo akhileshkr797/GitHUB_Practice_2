@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    color: blueviolet;
+    background-color: underline;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    border: 2px solid green;
+    color: rgb(14, 180, 180);
+}
