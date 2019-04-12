@@ -10,11 +10,12 @@ function createWindow() {
         show: false,
         width: 1300,
         height: 800,
-        title: 'main'
+        title: 'main',
+        backgroundColor: '#ccd'
     })
 
     mainWindow.loadURL(url.format({
-        pathname: path.join(__dirname, 'index.html'),
+        pathname: path.join(__dirname, 'master.html'),
         protocol: 'file:',
         slashes: true
     }))
