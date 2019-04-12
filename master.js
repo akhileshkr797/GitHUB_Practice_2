@@ -1,5 +1,5 @@
 const electron = require('electron')
-const { app, BrowserWindow, webContents } = electron
+const { app, BrowserWindow, webContents, ipcMain } = electron
 const path = require('path')
 const url = require('url')
 
