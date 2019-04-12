@@ -13,3 +13,8 @@ p {
     border: 2px solid green;
     color: rgb(14, 180, 180);
 }
+
+h2 {
+    color: chartreuse;
+    text-decoration: underline;
+}
